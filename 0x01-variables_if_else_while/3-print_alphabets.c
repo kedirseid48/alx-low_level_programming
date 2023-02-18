@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-        char n;
+	char n;
 	char b;
 
 	for (n = 'a'; n <= 'z'; n++)
@@ -18,5 +18,5 @@ int main(void)
 		putchar(b);
 	}
 	putchar('\n');
-        return (0);
+	return (0);
 }
