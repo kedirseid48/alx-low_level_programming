@@ -6,9 +6,10 @@
  *
  */
 int main() {
-char mytext[] = "_putchar";
+	char mytext[] = "_putchar";
+	int i;
 
-	for (int i = 0; i <= 7; i++)
+	for (i = 0; i <= 7; i++)
 	{
 	putchar(mytext[i]);
 	}
