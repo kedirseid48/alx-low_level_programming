@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * _islower - check character
+ * _isalpha - check character
  * Return: 0,1
  * @c: a character argument
  */
-int _islower(int c)
+int _isalpha(int c)
 {
 	if ((c >= 97 && c <= 122) || (c >= 65 && c <= 90))
 	{
