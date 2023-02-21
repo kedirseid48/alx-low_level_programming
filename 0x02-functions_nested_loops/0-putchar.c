@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main _putchar
+ * main _putchar project
  *
  * Return: 0
  *
