@@ -5,7 +5,8 @@
  * Return: 0
  *
  */
-int main() {
+int main()
+{
 	char mytext[] = "_putchar";
 	int i;
 
@@ -14,5 +15,5 @@ int main() {
 	putchar(mytext[i]);
 	}
 	putchar('\n');
-return 0;
+	return 0;
 }
