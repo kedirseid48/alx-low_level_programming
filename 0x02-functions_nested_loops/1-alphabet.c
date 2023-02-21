@@ -1,12 +1,11 @@
-#include <stdio.h>
 #include "main.h"
 /**
- * main - check the code
+ * print_alphabet - print alphabet
  *
- * Return: 0
+ * 
  *
  */
-int main(void)
+void print_alphabet(void)
 {
 	char i;
 
