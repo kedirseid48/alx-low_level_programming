@@ -2,7 +2,7 @@
 /**
  * _islower - check character
  * Return: 0,1
- * @c parameter number
+ * @c: a character argument
  */
 int _islower(int c)
 {
