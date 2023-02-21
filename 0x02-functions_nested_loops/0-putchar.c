@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main _putchar project
+ * main - _putchar print _putchar
  *
  * Return: 0
  *
@@ -12,7 +12,7 @@ int main(void)
 
 	for (i = 0; i <= 7; i++)
 	{
-	putchar(mytext[i]);
+		putchar(mytext[i]);
 	}
 	putchar('\n');
 	return (0);
