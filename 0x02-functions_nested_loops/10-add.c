@@ -3,7 +3,8 @@
  * add - add two integer
  *
  * Return: a + b
- * @a,@b: a decleard parameter
+ * @a: a character argument
+ * @b: a character argument
  */
 int add(int a, int b)
 {
