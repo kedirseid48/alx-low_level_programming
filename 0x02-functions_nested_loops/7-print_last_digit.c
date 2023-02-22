@@ -11,6 +11,10 @@ int print_last_digit(int x)
 		x = x % 10;
 		_putchar(x + '0');
 	}
+	else if (x = -2147483648)
+	{
+		x = (-1 * x) % 10;
+	}
 	else
 	{
 		x = -x % 10;
