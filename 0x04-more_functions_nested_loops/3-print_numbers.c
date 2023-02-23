@@ -4,12 +4,12 @@
  */
 void print_numbers(void)
 {
-	char mynum[]="0123456789";
+	char mynum[] = "0123456789";
 	int i;
 
-	for (i = 0; i <= 9; i++)
+	for (i = 0; i <= 10; i++)
 	{
-		if (i == 9)
+		if (i == 10)
 		{
 			_putchar('\n');
 		}
