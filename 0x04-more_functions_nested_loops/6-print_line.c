@@ -1,13 +1,13 @@
 #include "main.h"
 /**
- * print_lines - print numbers from 0 to 9
+ * print_line - print numbers from 0 to 9
+ * @n: a character argument
  */
-void print_lines(void)
+void print_line(int n)
 {
 	int i;
-	int j;
 
-	for (i = 0; i < j; i++)
+	for (i = 0; i < n; i++)
 	{
 		_putchar('_');
 	}
